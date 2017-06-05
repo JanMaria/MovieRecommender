@@ -9,5 +9,7 @@ If you ask me I would highlight the following:
 -	data sorting and filtering methods
 
 The program is a movie recommender. It makes use of a frequently updated online database which consist of basic information about movies(title, year, genres) and twitter movie ratings. The database can be found under this link: 
+
 https://github.com/sidooms/MovieTweetings
+
 In its basic form the recommender provides movie recommendations for a particular user in the database. These recommendations are based on a similarity measures between the user in question and other users. There are some filters provided which allows to specify characteristics of movies that are to be taken into consideration. The recommender has an option to print the results in terminal or to print them as an html table. 
