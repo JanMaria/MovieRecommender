@@ -1,8 +1,9 @@
 This is my first serious summary project written in Java. It is meant to be a beginning of my portfolio. I have written this code as a final assignment in Duke’s Java Programming Specialization on Coursera.org. Since then I made some important changes in it so as to adapt it to meet my goal, which is to show my current level of Java skills. 
-If you ask me I would highlight the following:
+
+Main skills includes:
 -	reading data from an URL
 -	efficiency solutions 
--	parsing database
+-	parsing text file
 -	some basic understanding of streams, functional interfaces and lambda expressions
 -	interfaces (although an interface contained in the program is utterly redundant)
 -	exceptions handling
